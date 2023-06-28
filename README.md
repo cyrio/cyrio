@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img width=”200" height=”200" alt="my banner" src="https://github.com/cyrio/cyrio/assets/11318212/399c4fc7-5d0b-493b-9024-5caa12d8d869">
+    <img width=”300" height=”300" alt="my banner" src="https://github.com/cyrio/cyrio/assets/11318212/399c4fc7-5d0b-493b-9024-5caa12d8d869">
   </picture>
 </p>
 
