@@ -1,4 +1,4 @@
-![banner](https://github.com/cyrio/cyrio/assets/11318212/399c4fc7-5d0b-493b-9024-5caa12d8d869")
+![IMG-6778 (1)](https://github.com/cyrio/cyrio/assets/11318212/34fb8400-1fdb-4c8a-8125-334b5d675438)
 
 ### Hi there 👋
 
